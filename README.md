@@ -3,12 +3,15 @@ sublime-pyxl
 
 [pyxl](https://github.com/dropbox/pyxl) syntax highlighting for Sublime Text.
 
+Inspired by [sublime-react](https://github.com/reactjs/sublime-react) and [PythonImproved](https://github.com/MattDMo/PythonImproved).
+
 ## Installation
 
 ### Package Control
 
-Make sure you already have Package Control installed. Choose Install Package
-from the Command Palette Select sublime-pyxl and press Enter
+1. Make sure you already have Package Control installed
+2. Choose Install Package from the Command Palette
+3. Select pyxl syntax and press Enter
 
 ### Manual installation
 
@@ -17,7 +20,8 @@ Sublime Text Packages directory.
 
 ## Usage
 
-After installing, set the syntax to `Python (pyxl)`.
+After installing, set the syntax to `Python (pyxl)` for the file with pyxl
+syntax.
 
 ## SublimeLinter
 
