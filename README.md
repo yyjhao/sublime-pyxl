@@ -5,6 +5,8 @@ sublime-pyxl
 
 Inspired by [sublime-react](https://github.com/reactjs/sublime-react) and [PythonImproved](https://github.com/MattDMo/PythonImproved).
 
+![Screenshot](http://i.imgur.com/SPqhWhc.png)
+
 ## Installation
 
 ### Package Control
