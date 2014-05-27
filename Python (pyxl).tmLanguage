@@ -4038,7 +4038,7 @@
               <key>name</key>
               <string>string.quoted.single.pyxl</string>
               <key>match</key>
-              <string>([^{}"]*)</string>
+              <string>([^{}']*)</string>
             </dict>
             <dict>
                 <key>include</key>
